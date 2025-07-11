@@ -2,7 +2,6 @@
   "name": "suitmedia-ideas",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://anugrahhhhh.gitlab.io/project-test-anugrah-putra-al-fatih-anugrahhhhh",
   "proxy": "https://suitmedia-backend.suitdev.com",
   "dependencies": {
     "axios": "^1.6.0",
