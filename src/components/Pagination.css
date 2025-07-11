@@ -1,0 +1,20 @@
+.btn-page {
+  border: none;
+  background-color: #f1f1f1;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: #333;
+  min-width: 36px;
+  transition: background-color 0.2s;
+}
+
+.btn-page:hover {
+  background-color: #ddd;
+}
+
+.btn-page.active {
+  background-color: #fd6e00;
+  color: white;
+}

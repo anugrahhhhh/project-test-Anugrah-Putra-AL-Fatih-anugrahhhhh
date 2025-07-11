@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fff;
+  scroll-behavior: smooth;
+  padding-top: 70px; /* karena navbar fixed */
+}
